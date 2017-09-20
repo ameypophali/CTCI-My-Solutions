@@ -1,4 +1,4 @@
-package Chapter7OODesign.DeckOfCards.Q2CallCenter;
+package Chapter7_OODesign.Q2CallCenter;
 
 public class Call {
     private Caller caller;

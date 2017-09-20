@@ -102,27 +102,20 @@ public class Solution {
 
     }*/
 
-    public String reverseWords(String s) {
-        if(s==null || s.equals(" ")){
-            return s;
-        }
+  public static void main(String[] args) {
 
-        char[] sArray = s.toCharArray();
-        sArray = reverse(sArray,0,sArray.length-1);
-        int start =0;
+      char a = 'a';
+      char b = 'b';
 
-        for(int i=0;i<sArray.length-1;i++){
-            if(sArray[i] == ' '){
-                reverse(sArray, start, i-1);
-                start = i+1;
-            }
-        }
+    a = (char) (a ^ b);
+    System.out.println(a + " " + b);
+    b = (char) (a ^ b);
+      System.out.println(a + " " + b);
+    a = (char) (a ^ b);
+      System.out.println(a + " " + b);
 
-        reverse(sArray,start,sArray.length-1);
 
-        return new String(sArray);
-    }
-
+  }
     public char[] reverse(char[] array, int start, int end){
         while(start<end){
             char temp = array[start];

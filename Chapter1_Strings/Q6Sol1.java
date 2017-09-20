@@ -29,8 +29,6 @@ public class Q6Sol1 {
 
     public static void main(String[] args){
         String result = StringCompress("aaaabbbcccd");
-        byte a = 0;
-        System.out.println(16>>1 );
-        System.out.println(16>>2 );
+        System.out.println(result);
     }
 }

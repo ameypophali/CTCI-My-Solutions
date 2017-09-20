@@ -1,4 +1,4 @@
-package Chapter2LinkedLists;
+package Chapter2_LinkedLists;
 import java.util.HashSet;
 
 public class Q1Sol1 {

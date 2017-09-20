@@ -1,4 +1,4 @@
-package Chapter3QueueandStacks;
+package Chapter3_QueueandStacks;
 
 import java.util.NoSuchElementException;
 

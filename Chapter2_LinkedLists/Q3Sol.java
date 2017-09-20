@@ -1,4 +1,4 @@
-package Chapter2LinkedLists;
+package Chapter2_LinkedLists;
 
 /**
  * Created by ameyp on 5/19/2017.

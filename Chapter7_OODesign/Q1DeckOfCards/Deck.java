@@ -1,7 +1,4 @@
-package Chapter7OODesign.DeckOfCards.Q1DeckOfCards;
-
-import Chapter7OODesign.DeckOfCards.Q1DeckOfCards.Rank;
-import Chapter7OODesign.DeckOfCards.Q1DeckOfCards.Suit;
+package Chapter7_OODesign.Q1DeckOfCards;
 
 import java.util.ArrayList;
 import java.util.Collections;

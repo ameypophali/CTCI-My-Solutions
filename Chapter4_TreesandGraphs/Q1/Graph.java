@@ -1,4 +1,4 @@
-package Chapter4TreesandGraphs.Q1;
+package Chapter4_TreesandGraphs.Q1;
 
 /**
  * Created by ameyp on 6/22/2017.

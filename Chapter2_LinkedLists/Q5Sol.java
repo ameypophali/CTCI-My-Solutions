@@ -1,4 +1,4 @@
-package Chapter2LinkedLists;
+package Chapter2_LinkedLists;
 
 public class Q5Sol {
 

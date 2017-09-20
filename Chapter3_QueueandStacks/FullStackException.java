@@ -1,4 +1,4 @@
-package Chapter3QueueandStacks;
+package Chapter3_QueueandStacks;
 
 /**
  * Created by ameyp on 6/13/2017.

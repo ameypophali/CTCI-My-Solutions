@@ -1,4 +1,4 @@
-package Chapter3QueueandStacks.Q3SetofStacks;
+package Chapter3_QueueandStacks.Q3SetofStacks;
 
 import java.util.ArrayList;
 import java.util.EmptyStackException;

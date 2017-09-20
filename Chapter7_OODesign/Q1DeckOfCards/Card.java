@@ -1,4 +1,4 @@
-package Chapter7OODesign.DeckOfCards.Q1DeckOfCards;
+package Chapter7_OODesign.Q1DeckOfCards;
 
 enum Suit{
     SPADE(0), DIAMOND(1), CLUB(2), HEART(3);

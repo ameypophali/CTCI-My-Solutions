@@ -1,4 +1,4 @@
-package Chapter1Strings;
+package Chapter1_Strings;
 
 public class Q3Sol2 {
 

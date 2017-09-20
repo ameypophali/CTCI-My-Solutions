@@ -1,4 +1,4 @@
-package Chapter4TreesandGraphs.Q1;
+package Chapter4_TreesandGraphs.Q1;
 
 import GraphAlgorithms.Vertex;
 
@@ -9,7 +9,7 @@ import java.util.Queue;
  * Created by ameyp on 6/22/2017.
  */
 public class ConnectedNodes {
-    public boolean checkConnected(Graph g, Node n1, Node n2){
+    public boolean checkConnected(Graph g, Chapter4TreesandGraphs.Q1.Node n1, Node n2){
         Queue<Node> q = new LinkedList<>();
 
         for(Node node : g.getVertices()){

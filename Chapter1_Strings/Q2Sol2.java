@@ -17,14 +17,12 @@ public class Q2Sol2 {
         char[] c1 = s.toCharArray();
 
         for(char a : c){
-            int i = a;
-            count[i]++;
+            count[(int) a]++;
         }
 
         for(char a : c1){
-            int i = a;
-            count[i]--;
-            if(count[i] < 0){
+            count[(int) a]--;
+            if(count[(int) a] < 0){
                 return false;
             }
         }

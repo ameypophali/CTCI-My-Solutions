@@ -1,4 +1,4 @@
-package Chapter3QueueandStacks.Q3SetofStacks;
+package Chapter3_QueueandStacks.Q3SetofStacks;
 
 /**
  * Created by ameyp on 6/17/2017.
